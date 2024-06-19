@@ -1,1 +1,2 @@
 # python-api-challenge
+In this challege we used two different APIs. Once we have understanding on how to build the request for each API, it was just a matter of getting the correct data that needed to be sent in the request.
